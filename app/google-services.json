@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247199774304",
+    "firebase_url": "https://seemeetcanchating.firebaseio.com",
+    "project_id": "seemeetcanchating",
+    "storage_bucket": "seemeetcanchating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247199774304:android:ef3fcd8bcdf9a8ec7cb505",
+        "android_client_info": {
+          "package_name": "com.example.seemeetcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247199774304-frs9p8roqq4a073n0mqk2t9bum5lhvun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnfzy_RFZUYIIpr6MjcUWhzdztOnMcX-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247199774304-frs9p8roqq4a073n0mqk2t9bum5lhvun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SeeMeetCan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>\
+    <string-array name="mbti_array">
+        <item>INTJ</item>
+        <item>INTP</item>
+        <item>INFJ</item>
+        <item>INFP</item>
+        <item>ISTJ</item>
+        <item>ISTP</item>
+        <item>ISFJ</item>
+        <item>ISFP</item>
+        <item>ENTJ</item>
+        <item>ENTP</item>
+        <item>ENFJ</item>
+        <item>ENFP</item>
+        <item>ESTJ</item>
+        <item>ESTP</item>
+        <item>ESFJ</item>
+        <item>ESFP</item>
+    </string-array>
+</resources>
